@@ -12,7 +12,7 @@ google_analytics: ""
 header:
   pages:
     - name: Home
-      slug: /
+      slug: miaozhehan@link.cuhk.edu.hk
     - name: Research
     - name: Activities
     - name: Misc
@@ -23,12 +23,12 @@ footer:
     - name: Email
       value: miaozhehan@link.cuhk.edu.hk
       link: mailto:miaozhehan@link.cuhk.edu.hk
-  follow:
-    - name: Twitter
-      link: http://twitter.com/YourTwitterUsername
-      username: "@YourTwitterUsername"
-    - name: LinkedIn
-      link: http://linkedin.com/in/YourLinkedInUsername
+  # follow:
+  #   - name: Twitter
+  #     link: http://twitter.com/YourTwitterUsername
+  #     username: "@YourTwitterUsername"
+  #   - name: LinkedIn
+  #     link: http://linkedin.com/in/YourLinkedInUsername
 
 # Build settings
 markdown: kramdown
