@@ -11,30 +11,5 @@ I am a Ph.D. candidate in the department of Decision Sciences and Managerial Eco
 
 My CV could be found [here](https://miaozhehan99.github.io/assets/CV_MiaozheHAN.pdf).
 
-## Education
 
-### 2019 -
 
-- PhD candidate in Information Systems
-- Department of Decision, Operation and Technology, The Chinese University of Hong Kong
-
-### 2015 - 2018
-
-- Bachelor in ...
-- School of Management, Fudan Univeristy
-
-## Publications
-
-**Title of the Paper**
-
-- Name and anything else
-- [Link of the paper]()
-
-> This is an abstract of the paper. Could be deleted if you want.
-
-## Working Paper
-
-#### Title of the Paper
-
-- Name and anything else
-- [Link of the paper]()
