@@ -33,6 +33,8 @@ footer:
 
 # Build settings
 markdown: kramdown
+markdown_extensions:
+  - attr_list
 sass:
     style: :compressed
 plugins:
