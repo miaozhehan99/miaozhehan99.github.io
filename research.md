@@ -68,8 +68,10 @@ Under Review
 > **Abstract**: The widespread adoption of live shopping on e-commerce platforms has created opportunities for sellers to reach broader audiences and increase sales. Using a comprehensive dataset of sellers’ live shopping practices, this study examines the effect of live shopping on sellers in two major product categories on Korea’s largest e-commerce platform. Our findings indicate a positive impact on sales for broadcasting sellers during livestreaming events. In addition, we find significant temporal changes in sales even before and after livestreaming dates. Our findings suggest that live shopping acts as an informational discovery channel that helps attract and retain customer attention. Furthermore, we investigate the aggregate impact on platform growth and find that livestreams have a positive effect not only on livestreaming sellers but also on non-streaming stores, contributing to sustainable platform growth. These findings underscore the potential of live shopping as an effective tool to influence sales on e-commerce platforms. <br> **Keywords**: digital platform, live streaming, difference-in-differences
 
 <br>
-<br>
+
 ***
+
+<br/>
 
 ## Publications and Proceedings
 
