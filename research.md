@@ -6,7 +6,6 @@ slug: /research
 ---
 
 <br>
-<br>
 
 ### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
  
@@ -20,7 +19,6 @@ Major Revision at __*Information Systems Research*__
     Conferences: SCECR (2023/6); CIST (2022/10); INFORMS Annual (2022/10); CSWIM (2022/8, Best Paper Award)
 </span>
 
-<br>
 <br>
 
 ### An Empirical Study of Algorithm-Induced Online Information Misallocation ###
@@ -36,7 +34,6 @@ Reject and Resubmit at __*Management Science*__
 </span>
 
 <br>
-<br>
 
 ### Connecting Communities: Semi-supervised Classification On Disconnected and Ill-labeled Graphs ###
  
@@ -51,7 +48,6 @@ Under Review
 </span>
 
 <br>
-<br>
 
 ### The Blessing of High Price: A Field Experiment on E-Commerce Platform ###
  
@@ -64,7 +60,6 @@ Under Review
 </span>
 
 <br>
-<br>
 
 ### The Impact of Live-Streaming on Business Performance: Evidence from an E-Commerce Platform ###
  
@@ -74,7 +69,6 @@ Under Review
 
 <br>
 <br>
-<br>
 
 ## Publications and Proceedings
 
@@ -82,7 +76,7 @@ Under Review
  
 (with Ben Charoenwong and Jing Wu)
 
-__*Manufacturing & Service Operations Management, 25 (1) *__
+__*Manufacturing & Service Operations Management, 25 (1)*__
 
 > **Abstract**: The uncertainty around trade and foreign economic policy contributes to supply chain risk. Whether such policy uncertainty will bring some production back to the United States or only redistribute the global supply chains among foreign sources is theoretically ambiguous and warrants an empirical analysis. In this paper, we study the relationship between trade and foreign economic policy uncertainty and the supply chain networks of American firms. We use firm-level global supply chain data, transaction-level shipping container data, and policy uncertainty indexes constructed from leading media outlets to study how policy uncertainty correlates with changes in supply chain networks. When U.S. trade policy uncertainty rises, firms with majority domestic sales decrease their supplier base abroad, whereas firms with majority foreign sales increase the number of foreign suppliers. Firms also substitute among foreign countries in response to their respective economic policy uncertainty—shifting suppliers from countries with higher uncertainty to ones with lower uncertainty. Firms requiring more specific inputs, producing more differentiated products, having higher market shares, and more central to the production network are more sensitive to policy uncertainty. Supply chain restructuring following higher policy uncertainty puts the market value at risk. Managers should consider customers’ locations when making global supply chain restructuring decisions. <br> **Keywords**: supply chain network, economic policy uncertainty
 
@@ -91,13 +85,12 @@ __*Manufacturing & Service Operations Management, 25 (1) *__
 </span>
 
 <br>
-<br>
 
 ### Passion Matters but not Equally Everywhere: Predicting Achievement from Interest, Enjoyment, and Efficacy in 59 Societies ###
 
 (with Xingyu Li, Geoffrey L Cohen, and Hazel Rose Markus)
 
-__* Proceedings of the National Academy of Sciences, 118 (11) *__
+__*Proceedings of the National Academy of Sciences, 118 (11)*__
 
 > **Abstract**: How to identify the students and employees most likely to achieve is a challenge in every field. American academic and lay theories alike highlight the importance of passion for strong achievement. Based on a Western independent model of motivation, passionate individuals—those who have a strong interest, demonstrate deep enjoyment, and express confidence in what they are doing—are considered future achievers. Those with less passion are thought to have less potential and are often passed over for admission or employment. As academic institutions and corporations in the increasingly multicultural world seek to acquire talent from across the globe, can they assume that passion is an equally strong predictor of achievement across cultural contexts? We address this question with three representative samples totaling 1.2 million students in 59 societies and provide empirical evidence of a systematic, cross-cultural variation in the importance of passion in predicting achievement. In individualistic societies where independent models of motivation are prevalent, relative to collectivistic societies where interdependent models of motivation are more common, passion predicts a larger gain (0.32 vs. 0.21 SD) and explains more variance in achievement (37% vs. 16%). In contrast, in collectivistic societies, parental support predicts achievement over and above passion. These findings suggest that in addition to passion, achievement may be fueled by striving to realize connectedness and meet family expectations. Findings highlight the risk of overweighting passion in admission and employment decisions and the need to understand and develop measures for the multiple sources and forms of motivation that support achievement. <br> **Keywords**: culture, passion, achievement, hierarchical linear model
 
@@ -106,13 +99,12 @@ __* Proceedings of the National Academy of Sciences, 118 (11) *__
 </span>
 
 <br>
-<br>
 
 ### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
 
 (with Xiaoquan Michael Zhang)
 
-__* ICIS 2020 Proceedings *__
+__*ICIS 2020 Proceedings*__
 
 > **Abstract**: There has been practical debates over the sharing economy and government intervention. Applying a difference-in-differences approach on Airbnb listing records in 20 U.S. cities from 2015 to 2020, we conclude a negative impact of government regulation on platform growth, through a channel of supplier behavior change. Our empirical analysis finds that implementation of license policy causes a significant decrease in the individual supplier activeness, quantified by 3.04% lower response rate, 3.22-hour longer response time and 4.71% lower acceptance rate. Subsequently, the change in behaviors leads to reduced revenue at host level and depressed booking demand, an estimate of 648 fewer requests each month, at platform level. We provide mechanisms by which the supplier-behavior channel exists, and discuss managerial implications for local policymakers and platform managers. <br> **Keywords**: digital platform, supplier behavior, policy regulation, difference-in-differences
 
