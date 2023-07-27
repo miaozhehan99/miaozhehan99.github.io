@@ -69,8 +69,11 @@ Under Review
 
 <br>
 <br>
+---
 
 ## Publications and Proceedings
+
+<br>
 
 ### Trade and Foreign Economic Policy Uncertainty in Supply Chain Networks: Who Comes Home ###
  
