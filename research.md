@@ -72,7 +72,7 @@ Under Review
 
 ## Publications and Proceedings
 
-### Trade and Foreign Economic Policy Uncertainty in Supply Chain Networks: Who Comes Home\? ###
+### Trade and Foreign Economic Policy Uncertainty in Supply Chain Networks: Who Comes Home ###
  
 (with Ben Charoenwong and Jing Wu)
 
