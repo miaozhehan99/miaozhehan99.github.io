@@ -13,7 +13,8 @@ My **CV** could be found [here](https://miaozhehan99.github.io/assets/CV_Miaozhe
 
 ***
 
-
+<br/>
+<br/>
 
 My research interest revolves around the economic implications of emerging technologies, with a particular focus on artificial intelligence and contributing algorithms. My current studies evaluate the impact of new technologies being deployed in various contexts, such as social media and industrial production. While appraising their value, I endeavor to discuss potential sources of inefficiencies and offer corresponding ways of mitigations. 
 
