@@ -32,8 +32,10 @@ reject and resubmit at __*Management Science*__
 > **Abstract**: In this project, we investigate algorithm-induced information misallocation in the online context. We empirically examine archival data and conduct a large-scale field experiment on Facebook. We find that instead of informing the poorly informed, information is systematically more likely to be distributed to those who are already well informed. With a set of laboratory tests, we identify the cause of this misallocation: algorithms tend to maximize user online engagement, while overlooking the inherent discrepancy between user interests and user needs. Specifically, our results consistently show that individuals with the highest informational needs are not covered by the current algorithms, leading to their exclusion from the allocation pool. Our welfare analysis suggests that allocating more information to the poorly informed can potentially improve efficiency through increased user willingness-to-pay. Overall, our study suggests that it would be socially desirable if content providers were allowed to reveal whether their content pertains to entertainment or information. <br> **Keywords**: recommendation algorithm, information misallocation, field test, difference-in-differences, lab experiment 
 
 <span style="color:grey;font-weight:700;font-size:15px">
-    Conferences: [HKU workshop](https://www.hkubs.hku.hk/eventsite/conf-on-behavioural-science-2023/) (2023/7), CoDE at MIT (2022/10), AFE at U. Chicago (2022/6)
+    Conferences:<p><a href="[http://example.com/](https://www.hkubs.hku.hk/eventsite/conf-on-behavioural-science-2023/)">HKU workshop</a></p>, HKU workshop() (2023/7), CoDE at MIT (2022/10), AFE at U. Chicago (2022/6)
 </span>
+
+
 
 
 
