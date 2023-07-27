@@ -17,9 +17,8 @@ Major Revision at *Information Systems Research*
 
 > Keywords: economics of AI, firm production, event study, production function, instrumental variable
 
-<font size="2"> Conferences: SCECR (Colombia, 2023/6); CIST (U.S., 2022/10), INFORMS Annual (U.S., 2022/10); CSWIM (China, 2022/8, Best Paper Award) </font>
+<font size="2"> Conferences: SCECR (2023/6); CIST (2022/10), INFORMS Annual (2022/10); CSWIM (2022/8, Best Paper Award) </font>
 
-<span style="font-size:1em;">Conferences: SCECR (Colombia, 2023/6); CIST (U.S., 2022/10), INFORMS Annual (U.S., 2022/10); CSWIM (China, 2022/8, Best Paper Award)</span>
 
 
 ## Publications
