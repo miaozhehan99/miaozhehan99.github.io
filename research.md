@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Working Papers
+title: <br> Working Papers
 slug: /research
 
 ---
