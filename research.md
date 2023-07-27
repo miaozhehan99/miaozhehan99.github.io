@@ -7,7 +7,8 @@ slug: /research
 
 ## Working Papers
 
-### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
+#### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ####
+</br> 
 (with Hongchuan Shen, Jing Wu, and Xiaoquan Michael Zhang)
 </br>
 Major Revision at *Information Systems Research*
