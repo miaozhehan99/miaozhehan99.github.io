@@ -35,7 +35,7 @@ Reject and Resubmit at __*Management Science*__
 
 <br>
 
-### Connecting Communities: Semi-supervised Classification On Disconnected and Ill-labeled Graphs ###
+### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
  
 (with Tianyi Li and Jeremy Yang)
 
