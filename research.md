@@ -1,6 +1,6 @@
 ---
 layout: work
-title: <br> Working Papers
+title: 
 slug: /research
 
 ---
@@ -21,7 +21,7 @@ Artificial intelligence (AI) has been widely implemented in business operations 
 </details>
 
 <span style="color:grey;font-weight:700;font-size:18px">
-    Conferences: SCECR (2023/6); CIST (2022/10); INFORMS Annual (2022/10); CSWIM (2022/8, Best Paper Award)
+    Conferences: SCECR (2023/6); CIST (2022/10); INFORMS (2022/10); CSWIM (2022/8, Best Paper Award)
 </span>
 
 
