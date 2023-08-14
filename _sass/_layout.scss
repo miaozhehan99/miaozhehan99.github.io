@@ -18,7 +18,7 @@
 }
 
 .site-title {
-  font-size: 30px;
+  font-size: 50px;
   line-height: 56px;
   letter-spacing: -1px;
   float: left;
@@ -40,6 +40,7 @@
   z-index: 10;
   float: right;
   line-height: 56px;
+  font-size: 30px;
 
   .menu-icon {
     display: none;
@@ -72,6 +73,7 @@
       line-height: 0;
       padding-top: 4px;
       text-align: center;
+      font-size: 30px;
 
       background: #ffffff url($base-url + '/assets/img/menu.png') 6px 4px no-repeat;
       background-size: 26px 26px;
