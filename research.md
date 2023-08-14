@@ -17,8 +17,6 @@ Major Revision at __*Information Systems Research*__
     Conferences: SCECR (2023/6); CIST (2022/10); INFORMS (2022/10); CSWIM (2022/8, Best Paper Award)
 </span>
 
-<br>
-
 <details>
 <summary>Abstract & Keywords</summary>
 
