@@ -20,6 +20,8 @@ Artificial intelligence (AI) has been widely implemented in business operations 
 
 Keywords: economics of AI, firm production, event study, production function, instrumental variable
 
+<details>
+
 <span style="color:grey;font-weight:700;font-size:18px">
     Conferences: SCECR (2023/6); CIST (2022/10); INFORMS Annual (2022/10); CSWIM (2022/8, Best Paper Award)
 </span>
