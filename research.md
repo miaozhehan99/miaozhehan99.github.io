@@ -5,8 +5,6 @@ slug: /research
 
 ---
 
-## Working Papers
-
 <br>
 
 ### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
