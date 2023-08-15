@@ -1,6 +1,6 @@
 ---
 layout: work
-title: 
+title:    
 slug: /research
 
 ---
@@ -9,7 +9,7 @@ slug: /research
 
 <br>
 
-* ### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
+### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
  
 (with Hongchuan Shen, Jing Wu, and Xiaoquan Michael Zhang)
 
