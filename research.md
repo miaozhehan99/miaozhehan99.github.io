@@ -7,7 +7,7 @@ slug: /research
 
 <br/>
 
-## AI & Algorithms
+## :atom: AI & Algorithms
 
 <br>
 
