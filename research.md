@@ -68,7 +68,7 @@ Having limited labels is a common challenge for semi-supervised classification w
 (with Jie Song, Siqi Pei, Xiaoquan Michael Zhang, and Feng Zhu)
 
 <span style="color:grey;font-weight:700;font-size:18px">
-    Conferences: [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe-2023) (2023/9); SCECR (2023/6); WISE (2022/12); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); CIST (2022/10); INFORMS Annual (2022/10)
+    Conferences: [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe-2023) (2023/9); SCECR (2023/6); WISE (2022/12); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); CIST (2022/10)
 </span>
 
 <details>
