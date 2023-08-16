@@ -7,7 +7,7 @@ slug: /research
 
 <br/>
 
-## :atom: AI & Algorithms
+## :robot: AI & Algorithms
 
 <br>
 
@@ -53,7 +53,7 @@ In this project, we investigate algorithm-induced information misallocation in t
 
 <br/>
 
-## Digital Platforms
+## :desktop_computer: Digital Platforms
 
 <br>
 
@@ -111,7 +111,7 @@ There has been practical debates over the sharing economy and government interve
 
 <br/>
 
-## Networks
+## :atom: Networks
 
 <br>
 
@@ -155,7 +155,7 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 <br/>
 
-## Interdisciplinary
+## :books: Interdisciplinary
 
 <br>
 
