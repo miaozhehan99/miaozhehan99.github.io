@@ -190,3 +190,21 @@ __*arXiv preprint arXiv:2103.15212*__
 The impact of predictive algorithms on people's lives and livelihoods has been noted in medicine, criminal justice, finance, hiring and admissions. Most of these algorithms are developed using data and human capital from highly developed nations. We tested how well predictive models of human behavior trained in a developed country generalize to people in less developed countries by modeling global variation in 200 predictors of academic achievement on nationally representative student data for 65 countries. Here we show that state-of-the-art machine learning models trained on data from the United States can predict achievement with high accuracy and generalize to other developed countries with comparable accuracy. However, accuracy drops linearly with national development due to global variation in the importance of different achievement predictors, providing a useful heuristic for policymakers. Training the same model on national data yields high accuracy in every country, which highlights the value of local data collection. <br> **Keywords**: big data, machine learning, algorithmic bias, cultural differences, Human Development Index
 
 </details>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
