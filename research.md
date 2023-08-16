@@ -7,7 +7,7 @@ slug: /research
 
 <br/>
 
-## :robot: AI & Algorithms
+## <mark> :robot: AI & Algorithms </mark>
 
 <br>
 
