@@ -5,6 +5,10 @@ slug: /research
 
 ---
 
+<br/>
+
+## AI & Algorithms
+
 <br>
 
 ### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
@@ -26,7 +30,6 @@ Artificial intelligence (AI) has been widely implemented in business operations 
 
 <br>
 
-
 ### An Empirical Study of Algorithm-Induced Online Information Misallocation ###
  
 (with Hongchuan Shen, Sihan Zhai, and Xiaoquan Michael Zhang)
@@ -46,20 +49,11 @@ In this project, we investigate algorithm-induced information misallocation in t
 
 <br>
 
-### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
- 
-(with Tianyi Li and Jeremy Yang)
+***
 
-<span style="color:grey;font-weight:700;font-size:18px">
-    Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
-</span>
+<br/>
 
-<details>
-<summary>Abstract & Keywords</summary>
-
-Having limited labels is a common challenge for semi-supervised classification when labels are difficult to collect. When subjects are connected on a network, we can exploit graph connectivity to improve prediction accuracy. However, the network might also be hard to measure and is only partially observed, often resulting in disconnected communities with unevenly distributed labels. To address this issue, we treat the observed, fragmented network as downsampled from a connected background network, and augment it with additional edges, in particular, inter-community edges; we then use graph neural network (GNN) to infer the missing labels on the augmented network. We experiment with three edge augmentation methods: link prediction, eigenvalue elevation, and random edge rewiring. We apply our framework to the Paluck et al. (2016) and Alatas et al. (2016) datasets to predict students' anti-bullying behaviors and the need for financial aid in Indonesian villages. We show that GNN's accuracy is higher on the augmented network than on the original or the feature-selected network, especially when labels are more limited, more unevenly distributed, and the network is more fragmented. Link prediction which leverages both node features and graph connectivity works the best. We further show that edge augmentation can preserve the original graph topology and render the predicted label distribution closer to the ground truth. We discuss research limitations and directions for future work. <br> **Keywords**: limited labels problem, semi-supervised classification, graph neural networks, disconnected graphs, edge augmentation
-
-</details>
+## Digital Platforms
 
 <br>
 
@@ -101,9 +95,44 @@ The widespread adoption of live shopping on e-commerce platforms has created opp
 
 <br/>
 
-## Publications and Proceedings
+### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
+
+(with Xiaoquan Michael Zhang)
+
+__*ICIS 2020 Proceedings*__
+
+<details>
+<summary>Abstract & Keywords</summary>
+
+There has been practical debates over the sharing economy and government intervention. Applying a difference-in-differences approach on Airbnb listing records in 20 U.S. cities from 2015 to 2020, we conclude a negative impact of government regulation on platform growth, through a channel of supplier behavior change. Our empirical analysis finds that implementation of license policy causes a significant decrease in the individual supplier activeness, quantified by 3.04% lower response rate, 3.22-hour longer response time and 4.71% lower acceptance rate. Subsequently, the change in behaviors leads to reduced revenue at host level and depressed booking demand, an estimate of 648 fewer requests each month, at platform level. We provide mechanisms by which the supplier-behavior channel exists, and discuss managerial implications for local policymakers and platform managers. <br> **Keywords**: digital platform, supplier behavior, policy regulation, difference-in-differences
+
+</details>
+
 
 <br>
+
+***
+
+<br/>
+
+## Networks
+
+<br>
+
+### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
+ 
+(with Tianyi Li and Jeremy Yang)
+
+<span style="color:grey;font-weight:700;font-size:18px">
+    Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
+</span>
+
+<details>
+<summary>Abstract & Keywords</summary>
+
+Having limited labels is a common challenge for semi-supervised classification when labels are difficult to collect. When subjects are connected on a network, we can exploit graph connectivity to improve prediction accuracy. However, the network might also be hard to measure and is only partially observed, often resulting in disconnected communities with unevenly distributed labels. To address this issue, we treat the observed, fragmented network as downsampled from a connected background network, and augment it with additional edges, in particular, inter-community edges; we then use graph neural network (GNN) to infer the missing labels on the augmented network. We experiment with three edge augmentation methods: link prediction, eigenvalue elevation, and random edge rewiring. We apply our framework to the Paluck et al. (2016) and Alatas et al. (2016) datasets to predict students' anti-bullying behaviors and the need for financial aid in Indonesian villages. We show that GNN's accuracy is higher on the augmented network than on the original or the feature-selected network, especially when labels are more limited, more unevenly distributed, and the network is more fragmented. Link prediction which leverages both node features and graph connectivity works the best. We further show that edge augmentation can preserve the original graph topology and render the predicted label distribution closer to the ground truth. We discuss research limitations and directions for future work. <br> **Keywords**: limited labels problem, semi-supervised classification, graph neural networks, disconnected graphs, edge augmentation
+
+</details>
 
 ### Trade and Foreign Economic Policy Uncertainty in Supply Chain Networks: Who Comes Home ###
  
@@ -124,6 +153,14 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 <br>
 
+***
+
+<br/>
+
+## Interdisciplinary
+
+<br>
+
 ### Passion Matters but not Equally Everywhere: Predicting Achievement from Interest, Enjoyment, and Efficacy in 59 Societies ###
 
 (with Xingyu Li, Geoffrey L Cohen, and Hazel Rose Markus)
@@ -140,27 +177,3 @@ __*Proceedings of the National Academy of Sciences, 118 (11)*__
 How to identify the students and employees most likely to achieve is a challenge in every field. American academic and lay theories alike highlight the importance of passion for strong achievement. Based on a Western independent model of motivation, passionate individuals—those who have a strong interest, demonstrate deep enjoyment, and express confidence in what they are doing—are considered future achievers. Those with less passion are thought to have less potential and are often passed over for admission or employment. As academic institutions and corporations in the increasingly multicultural world seek to acquire talent from across the globe, can they assume that passion is an equally strong predictor of achievement across cultural contexts? We address this question with three representative samples totaling 1.2 million students in 59 societies and provide empirical evidence of a systematic, cross-cultural variation in the importance of passion in predicting achievement. In individualistic societies where independent models of motivation are prevalent, relative to collectivistic societies where interdependent models of motivation are more common, passion predicts a larger gain (0.32 vs. 0.21 SD) and explains more variance in achievement (37% vs. 16%). In contrast, in collectivistic societies, parental support predicts achievement over and above passion. These findings suggest that in addition to passion, achievement may be fueled by striving to realize connectedness and meet family expectations. Findings highlight the risk of overweighting passion in admission and employment decisions and the need to understand and develop measures for the multiple sources and forms of motivation that support achievement. <br> **Keywords**: culture, passion, achievement, hierarchical linear model
 
 </details>
-
-<br>
-
-### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
-
-(with Xiaoquan Michael Zhang)
-
-__*ICIS 2020 Proceedings*__
-
-<details>
-<summary>Abstract & Keywords</summary>
-
-There has been practical debates over the sharing economy and government intervention. Applying a difference-in-differences approach on Airbnb listing records in 20 U.S. cities from 2015 to 2020, we conclude a negative impact of government regulation on platform growth, through a channel of supplier behavior change. Our empirical analysis finds that implementation of license policy causes a significant decrease in the individual supplier activeness, quantified by 3.04% lower response rate, 3.22-hour longer response time and 4.71% lower acceptance rate. Subsequently, the change in behaviors leads to reduced revenue at host level and depressed booking demand, an estimate of 648 fewer requests each month, at platform level. We provide mechanisms by which the supplier-behavior channel exists, and discuss managerial implications for local policymakers and platform managers. <br> **Keywords**: digital platform, supplier behavior, policy regulation, difference-in-differences
-
-</details>
-
-
-
-
-
-
-
-
-
