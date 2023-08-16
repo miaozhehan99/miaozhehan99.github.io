@@ -15,3 +15,20 @@ As part of IS exploration, I am also broadly interested in digital platforms: ho
 
 My **CV** could be found [here](https://miaozhehan99.github.io/assets/CV_MiaozheHAN.pdf).
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
