@@ -48,6 +48,9 @@ In this project, we investigate algorithm-induced information misallocation in t
 </details>
 
 <br>
+<br>
+<br>
+<br>
 
 ***
 
@@ -106,6 +109,9 @@ There has been practical debates over the sharing economy and government interve
 
 
 <br>
+<br>
+<br>
+<br>
 
 ***
 
@@ -149,6 +155,9 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 </details>
 
+<br>
+<br>
+<br>
 <br>
 
 ***
