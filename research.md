@@ -51,6 +51,7 @@ In this project, we investigate algorithm-induced information misallocation in t
 <br>
 <br>
 <br>
+<br>
 
 ***
 
@@ -112,6 +113,7 @@ There has been practical debates over the sharing economy and government interve
 <br>
 <br>
 <br>
+<br>
 
 ***
 
@@ -148,6 +150,10 @@ __*Manufacturing & Service Operations Management, 25 (1)*__
     Media: [Yahoo Finance](https://finance.yahoo.com/news/cuhk-business-school-research-reveals-020000734.html) (2020/2); [Reuters](https://www.reuters.com/article/usa-companies-research-0220-thur-idCNKBS20E0K7) (2020/2); [The Economist](https://www.economist.com/finance-and-economics/2020/12/16/is-a-wave-of-supply-chain-reshoring-around-the-corner) (2020/12)
 </span>
 
+<span style="color:grey;font-weight:700;font-size:18px">
+    Conferences: M&SOM SIG (2021/6); [AEA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1761?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXAgrJbESKpSZmwphlWWmloO0FxUUXDAFTA1AegsS00GyRkq1XDBuoh4V) (2021/1)
+</span>
+
 <details>
 <summary>Abstract & Keywords</summary>
 
@@ -155,6 +161,7 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 </details>
 
+<br>
 <br>
 <br>
 <br>
