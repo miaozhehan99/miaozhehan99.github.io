@@ -17,7 +17,7 @@ slug: /research
 
 Major Revision at __*Information Systems Research*__
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: SCECR (2023/6); CIST (2022/10); INFORMS (2022/10); CSWIM (2022/8, Best Paper Award)
 </span>
 
@@ -36,7 +36,7 @@ Artificial intelligence (AI) has been widely implemented in business operations 
 
 Reject and Resubmit at __*Management Science*__
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: [Workshop at HKU](https://www.hkubs.hku.hk/eventsite/conf-on-behavioural-science-2023/) (2023/7); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe2022) (2022/6)
 </span>
 
@@ -68,7 +68,7 @@ In this project, we investigate algorithm-induced information misallocation in t
  
 (with Jie Song, Siqi Pei, Xiaoquan Michael Zhang, and Feng Zhu)
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe-2023) (2023/9); SCECR (2023/6); WISE (2022/12); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); CIST (2022/10)
 </span>
 
@@ -85,7 +85,7 @@ In this project, we investigate algorithm-induced information misallocation in t
  
 (with Mingi Song, Gun Wonng Lee, Keongtae Kim)
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: CIST (2023/10)
 </span>
 
@@ -133,7 +133,7 @@ There has been practical debates over the sharing economy and government interve
  
 (with Tianyi Li and Jeremy Yang)
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
 </span>
 
@@ -152,11 +152,11 @@ Having limited labels is a common challenge for semi-supervised classification w
 
 __*Manufacturing & Service Operations Management, 25 (1)*__
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Media: [Yahoo Finance](https://finance.yahoo.com/news/cuhk-business-school-research-reveals-020000734.html) (2020/2); [Reuters](https://www.reuters.com/article/usa-companies-research-0220-thur-idCNKBS20E0K7) (2020/2); [The Economist](https://www.economist.com/finance-and-economics/2020/12/16/is-a-wave-of-supply-chain-reshoring-around-the-corner) (2020/12)
 </span>
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Conferences: M&SOM SIG (2021/6); [AEA Annual Meeting](https://www.aeaweb.org/conference/2021/preliminary/1761?q=eNqrVipOLS7OzM8LqSxIVbKqhnGVrJQMlWp1lBKLi_OTgRwlHaWS1KJcXAgrJbESKpSZmwphlWWmloO0FxUUXDAFTA1AegsS00GyRkq1XDBuoh4V) (2021/1)
 </span>
 
@@ -190,7 +190,7 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 __*Proceedings of the National Academy of Sciences, 118 (11)*__
 
-<span style="color:grey;font-weight:700;font-size:17px">
+<span style="color:grey;font-weight:700;font-size:16px">
     Media: [Tweet](https://twitter.com/stevenstrogatz/status/1372134619445874688) (by Prof Steven Strogatz); [British Psychological Society](https://www.bps.org.uk/research-digest/passion-linked-greater-academic-achievement)
 </span>
 
