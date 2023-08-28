@@ -1,6 +1,6 @@
 ---
 layout: work
-title: Misc
+title:   
 slug: /misc
 ---
 
