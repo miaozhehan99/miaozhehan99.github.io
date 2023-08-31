@@ -48,6 +48,23 @@ In this project, we investigate algorithm-induced information misallocation in t
 </details>
 
 <br>
+
+### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
+ 
+(with Tianyi Li and Jeremy Yang)
+
+<span style="color:grey;font-weight:700;font-size:16px">
+    Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
+</span>
+
+<details>
+<summary>Abstract & Keywords</summary>
+
+Having limited labels is a common challenge for semi-supervised classification when labels are difficult to collect. When subjects are connected on a network, we can exploit graph connectivity to improve prediction accuracy. However, the network might also be hard to measure and is only partially observed, often resulting in disconnected communities with unevenly distributed labels. To address this issue, we treat the observed, fragmented network as downsampled from a connected background network, and augment it with additional edges, in particular, inter-community edges; we then use graph neural network (GNN) to infer the missing labels on the augmented network. We experiment with three edge augmentation methods: link prediction, eigenvalue elevation, and random edge rewiring. We apply our framework to the Paluck et al. (2016) and Alatas et al. (2016) datasets to predict students' anti-bullying behaviors and the need for financial aid in Indonesian villages. We show that GNN's accuracy is higher on the augmented network than on the original or the feature-selected network, especially when labels are more limited, more unevenly distributed, and the network is more fragmented. Link prediction which leverages both node features and graph connectivity works the best. We further show that edge augmentation can preserve the original graph topology and render the predicted label distribution closer to the ground truth. We discuss research limitations and directions for future work. <br> **Keywords**: limited labels problem, semi-supervised classification, graph neural networks, disconnected graphs, edge augmentation
+
+</details>
+
+<br>
 <br>
 <br>
 <br>
@@ -126,23 +143,6 @@ There has been practical debates over the sharing economy and government interve
 <br/>
 
 ## __*Networks*__
-
-<br>
-
-### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
- 
-(with Tianyi Li and Jeremy Yang)
-
-<span style="color:grey;font-weight:700;font-size:16px">
-    Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
-</span>
-
-<details>
-<summary>Abstract & Keywords</summary>
-
-Having limited labels is a common challenge for semi-supervised classification when labels are difficult to collect. When subjects are connected on a network, we can exploit graph connectivity to improve prediction accuracy. However, the network might also be hard to measure and is only partially observed, often resulting in disconnected communities with unevenly distributed labels. To address this issue, we treat the observed, fragmented network as downsampled from a connected background network, and augment it with additional edges, in particular, inter-community edges; we then use graph neural network (GNN) to infer the missing labels on the augmented network. We experiment with three edge augmentation methods: link prediction, eigenvalue elevation, and random edge rewiring. We apply our framework to the Paluck et al. (2016) and Alatas et al. (2016) datasets to predict students' anti-bullying behaviors and the need for financial aid in Indonesian villages. We show that GNN's accuracy is higher on the augmented network than on the original or the feature-selected network, especially when labels are more limited, more unevenly distributed, and the network is more fragmented. Link prediction which leverages both node features and graph connectivity works the best. We further show that edge augmentation can preserve the original graph topology and render the predicted label distribution closer to the ground truth. We discuss research limitations and directions for future work. <br> **Keywords**: limited labels problem, semi-supervised classification, graph neural networks, disconnected graphs, edge augmentation
-
-</details>
 
 <br>
 
