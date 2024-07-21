@@ -15,7 +15,7 @@ slug: /research
  
 (with Hongchuan Shen, Jing Wu, and Xiaoquan Michael Zhang)
 
-Major Revision at __*Information Systems Research*__
+Conditionally accept at __*Information Systems Research*__
 
 <span style="color:grey;font-weight:700;font-size:16px">
     Conferences: SCECR (2023/6); CIST (2022/10); INFORMS (2022/10); CSWIM (2022/8, Best Paper Award)
@@ -36,7 +36,7 @@ Artificial intelligence (AI) has been increasingly implemented in business opera
  
 (with Hongchuan Shen, Sihan Zhai, and Xiaoquan Michael Zhang)
 
-Reject and Resubmit at __*Management Science*__
+Under review at __*Management Science*__
 
 <span style="color:grey;font-weight:700;font-size:16px">
     Conferences: [Workshop at HKU](https://www.hkubs.hku.hk/eventsite/conf-on-behavioural-science-2023/) (2023/7); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe2022) (2022/6)
@@ -46,23 +46,6 @@ Reject and Resubmit at __*Management Science*__
 <summary>Abstract & Keywords</summary>
 
 In this project, we investigate algorithm-induced information misallocation in the online context. We empirically examine archival data and conduct a large-scale field experiment on Facebook. We find that instead of informing the poorly informed, information is systematically more likely to be distributed to those who are already well informed. With a set of laboratory tests, we identify the cause of this misallocation: algorithms tend to maximize user online engagement, while overlooking the inherent discrepancy between user interests and user needs. Specifically, our results consistently show that individuals with the highest informational needs are not covered by the current algorithms, leading to their exclusion from the allocation pool. Our welfare analysis suggests that allocating more information to the poorly informed can potentially improve efficiency through increased user willingness-to-pay. Overall, our study suggests that it would be socially desirable if content providers were allowed to reveal whether their content pertains to entertainment or information. <br> **Keywords**: recommendation algorithm, information misallocation, field test, difference-in-differences, lab experiment 
-
-</details>
-
-<br>
-
-### Connecting Communities: Semi-supervised Node Classification on Disconnected and Unevenly-labeled Networks ###
- 
-(with Tianyi Li and Jeremy Yang)
-
-<span style="color:grey;font-weight:700;font-size:16px">
-    Conferences: SCECR (2023/6); INFORMS Annual (2022/10)
-</span>
-
-<details>
-<summary>Abstract & Keywords</summary>
-
-Having limited labels is a common challenge for semi-supervised classification when labels are difficult to collect. When subjects are connected on a network, we can exploit graph connectivity to improve prediction accuracy. However, the network might also be hard to measure and is only partially observed, often resulting in disconnected communities with unevenly distributed labels. To address this issue, we treat the observed, fragmented network as downsampled from a connected background network, and augment it with additional edges, in particular, inter-community edges; we then use graph neural network (GNN) to infer the missing labels on the augmented network. We experiment with three edge augmentation methods: link prediction, eigenvalue elevation, and random edge rewiring. We apply our framework to the Paluck et al. (2016) and Alatas et al. (2016) datasets to predict students' anti-bullying behaviors and the need for financial aid in Indonesian villages. We show that GNN's accuracy is higher on the augmented network than on the original or the feature-selected network, especially when labels are more limited, more unevenly distributed, and the network is more fragmented. Link prediction which leverages both node features and graph connectivity works the best. We further show that edge augmentation can preserve the original graph topology and render the predicted label distribution closer to the ground truth. We discuss research limitations and directions for future work. <br> **Keywords**: limited labels problem, semi-supervised classification, graph neural networks, disconnected graphs, edge augmentation
 
 </details>
 
