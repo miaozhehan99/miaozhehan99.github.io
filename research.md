@@ -62,44 +62,6 @@ In this project, we investigate algorithm-induced information misallocation in t
 
 <br/>
 
-## __*Digital Platforms*__
-
-<br>
-
-### The Blessing of High Price: A Field Experiment on E-Commerce Platform ###
- 
-(with Jie Song, Siqi Pei, Xiaoquan Michael Zhang, and Feng Zhu)
-
-<span style="color:grey;font-weight:700;font-size:16px">
-    Conferences: [AFE at U. of Chicago](https://economics.uchicago.edu/content/afe-2023) (2023/9); SCECR (2023/6); WISE (2022/12); [CoDE at MIT](https://ide.mit.edu/events/2022-conference-on-digital-experimentation-mit-codemit/) (2022/10); CIST (2022/10)
-</span>
-
-<details>
-<summary>Abstract & Keywords</summary>
-
- We challenge the ubiquitous belief that sales promotion strategy necessarily resides in low-price practices such as markdowns or discounts. From a randomized field experiment on a leading e-commerce platform in China, we investigate the hypothesis that high-price promotion strategy, which is realized via concealing low-priced items on the front-page, may also effectively yield sales increase. Results demonstrate that high-price promotion induces consumers to browse, cart, and order higher-priced products, among which the products being actively searched for (as opposed to being passively showcased by the platform) dominate the effect. More interestingly, we find that search efforts of consumers, as measured by the exploitative browsing duration and the exploratory browsing diversity, remain unchanged. Heterogeneity tests show that less-explorative and smaller users tend to react more positively. We attribute our findings to the deviation of consumer’s perceived value of high-priced items when low-priced ones are unavailable. Our findings imply that sales can be potentially augmented by strategically promoting higher-priced products. <br> **Keywords**: digital platform, promotion strategy, consumer behavior, field experiment, lab experiment
-
-</details>
-
-<br>
-
-### The Impact of Live-Streaming on Business Performance: Evidence from an E-Commerce Platform ###
- 
-(with Mingi Song, Gun Wonng Lee, Keongtae Kim)
-
-<span style="color:grey;font-weight:700;font-size:16px">
-    Conferences: CIST (2023/10)
-</span>
-
-<details>
-<summary>Abstract & Keywords</summary>
-
-The widespread adoption of live shopping on e-commerce platforms has created opportunities for sellers to reach broader audiences and increase sales. Using a comprehensive dataset of sellers’ live shopping practices, this study examines the effect of live shopping on sellers in two major product categories on Korea’s largest e-commerce platform. Our findings indicate a positive impact on sales for broadcasting sellers during livestreaming events. In addition, we find significant temporal changes in sales even before and after livestreaming dates. Our findings suggest that live shopping acts as an informational discovery channel that helps attract and retain customer attention. Furthermore, we investigate the aggregate impact on platform growth and find that livestreams have a positive effect not only on livestreaming sellers but also on non-streaming stores, contributing to sustainable platform growth. These findings underscore the potential of live shopping as an effective tool to influence sales on e-commerce platforms. <br> **Keywords**: digital platform, live streaming, difference-in-differences
-
-</details>
-
-<br>
-
 ### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
 
 (with Xiaoquan Michael Zhang)
