@@ -5,12 +5,6 @@ slug: /research
 
 ---
 
-<br/>
-
-## __*AI & Algorithms*__
-
-<br>
-
 ### Artificial Intelligence and Firm Resilience: Evidence from Firm Performance under Disaster Shocks ###
  
 (with Hongchuan Shen, Jing Wu, and Xiaoquan Michael Zhang)
@@ -49,49 +43,7 @@ In this project, we investigate algorithm-induced information misallocation in t
 
 </details>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-***
-
 <br/>
-
-### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
-
-(with Xiaoquan Michael Zhang)
-
-__*ICIS 2020 Proceedings*__
-
-<details>
-<summary>Abstract & Keywords</summary>
-
-There has been practical debates over the sharing economy and government intervention. Applying a difference-in-differences approach on Airbnb listing records in 20 U.S. cities from 2015 to 2020, we conclude a negative impact of government regulation on platform growth, through a channel of supplier behavior change. Our empirical analysis finds that implementation of license policy causes a significant decrease in the individual supplier activeness, quantified by 3.04% lower response rate, 3.22-hour longer response time and 4.71% lower acceptance rate. Subsequently, the change in behaviors leads to reduced revenue at host level and depressed booking demand, an estimate of 648 fewer requests each month, at platform level. We provide mechanisms by which the supplier-behavior channel exists, and discuss managerial implications for local policymakers and platform managers. <br> **Keywords**: digital platform, supplier behavior, policy regulation, difference-in-differences
-
-</details>
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-***
-
-<br/>
-
-## __*Networks*__
-
-<br>
 
 ### Trade and Foreign Economic Policy Uncertainty in Supply Chain Networks: Who Comes Home ###
  
@@ -114,22 +66,22 @@ The uncertainty around trade and foreign economic policy contributes to supply c
 
 </details>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-***
-
 <br/>
 
-## __*Interdisciplinary*__
+### The impact of government regulation on sharing platform growth: A channel of supplier behavior change ###
 
-<br>
+(with Xiaoquan Michael Zhang)
+
+__*ICIS 2020 Proceedings*__
+
+<details>
+<summary>Abstract & Keywords</summary>
+
+There has been practical debates over the sharing economy and government intervention. Applying a difference-in-differences approach on Airbnb listing records in 20 U.S. cities from 2015 to 2020, we conclude a negative impact of government regulation on platform growth, through a channel of supplier behavior change. Our empirical analysis finds that implementation of license policy causes a significant decrease in the individual supplier activeness, quantified by 3.04% lower response rate, 3.22-hour longer response time and 4.71% lower acceptance rate. Subsequently, the change in behaviors leads to reduced revenue at host level and depressed booking demand, an estimate of 648 fewer requests each month, at platform level. We provide mechanisms by which the supplier-behavior channel exists, and discuss managerial implications for local policymakers and platform managers. <br> **Keywords**: digital platform, supplier behavior, policy regulation, difference-in-differences
+
+</details>
+
+<br/>
 
 ### Passion Matters but not Equally Everywhere: Predicting Achievement from Interest, Enjoyment, and Efficacy in 59 Societies ###
 
