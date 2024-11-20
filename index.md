@@ -13,7 +13,7 @@ My research interest revolves around the economic implications of emerging techn
 
 As part of IS exploration, I am also broadly interested in digital platforms: how ever-changing technologies reshape user behaviors and social interactions on the platform, and how platforms help realize and even spur sustainable innovations. 
 
-I obtained my PhD degree from the CUHK Business School and my undergraduate degree from Fudan University in mainland China. My **CV** could be found [here](https://miaozhehan99.github.io/assets/CV_MiaozheHAN.pdf).
+I obtained my PhD degree from the CUHK Business School and my undergraduate degree from Fudan University in mainland China.
 
 <br>
 <br>
